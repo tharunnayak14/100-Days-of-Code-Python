@@ -1,7 +1,7 @@
 <h1 align="center"> 
 100 Days of Code
 </h1>
-<h2>
+<h2 align="center">
   Step by Step
   Day by Day
  </h2>
