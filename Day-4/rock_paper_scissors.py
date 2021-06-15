@@ -43,24 +43,21 @@ else:
     print("Computer choose:")
     print(figures[computer_choice - 1])
 
-    if your_choice == 1:
+    if your_choice == computer_choice:
+        print("Draw")
+
+    elif your_choice == 1:
         if computer_choice == 2:
             print("You Lose")
-        elif computer_choice == 1:
-            print("Draw")
         else:
             print("You win")
     elif your_choice == 2:
         if computer_choice == 3:
             print("You Lose")
-        elif computer_choice == 2:
-            print("Draw")
         else:
             print("You win")
     else:
         if computer_choice == 1:
             print("You Lose")
-        elif computer_choice == 3:
-            print("Draw")
         else:
             print("You win")
