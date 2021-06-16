@@ -12,3 +12,4 @@
 - <b>Day 3</b> - [Control flow and logical operators](https://github.com/tharunnayak14/100-Days-of-Code-Python/tree/main/Day-3)
 - <b>Day 4</b> - [Lists](https://github.com/tharunnayak14/100-Days-of-Code-Python/tree/main/Day-4)
 - <b>Day 5</b> - [Loops](https://github.com/tharunnayak14/100-Days-of-Code-Python/tree/main/Day-5)
+- <b>Day 6</b> - [Functions](https://github.com/tharunnayak14/100-Days-of-Code-Python/tree/main/Day-6)
