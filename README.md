@@ -15,3 +15,4 @@
 - <b>Day 6</b> - [Functions](https://github.com/tharunnayak14/100-Days-of-Code-Python/tree/main/Day-6)
 - <b>Day 7</b> - [HangMan Game](https://github.com/tharunnayak14/100-Days-of-Code-Python/tree/main/Day-7)
 - <b>Day 8</b> - [Function Parameters & Caesar Cipher](https://github.com/tharunnayak14/100-Days-of-Code-Python/tree/main/Day-8)
+- <b>Day 9</b> - [Dictionaries and Nesting](https://github.com/tharunnayak14/100-Days-of-Code-Python/tree/main/Day-9)
