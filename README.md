@@ -17,3 +17,4 @@
 - <b>Day 8</b> - [Function Parameters & Caesar Cipher](https://github.com/tharunnayak14/100-Days-of-Code-Python/tree/main/Day-8)
 - <b>Day 9</b> - [Dictionaries and Nesting](https://github.com/tharunnayak14/100-Days-of-Code-Python/tree/main/Day-9)
 - <b>Day 10</b> - [Functions with Outputs](https://github.com/tharunnayak14/100-Days-of-Code-Python/tree/main/Day-10)
+- <b>Day 11</b> - [Blackjack game](https://github.com/tharunnayak14/100-Days-of-Code-Python/tree/main/Day-11)
