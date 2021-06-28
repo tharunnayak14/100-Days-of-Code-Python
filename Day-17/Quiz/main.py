@@ -15,6 +15,7 @@ class NewQuestion:
 # print(que_1.text, que_1.answer)
 
 
+
 question_bank = []
 
 for question in question_data:

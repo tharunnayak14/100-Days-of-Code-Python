@@ -31,6 +31,7 @@ user_1 = User(420, "Tharun")
 print(user_1.name)
 
 
+
 class Car:
     def __init__(self, seats, name):
         # runs everytime we initialise the object
