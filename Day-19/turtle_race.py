@@ -22,6 +22,7 @@ for color in colours:
 if user_bet:
     is_race_on = True
 
+
 while is_race_on:
     for turtle in all_turtles:
         # use 230 instead of 250 as turtle itself has size 40 x 40
