@@ -27,3 +27,4 @@
 - <b>Day 18</b> - [Turtle Graphics & Spot painting](https://github.com/tharunnayak14/100-Days-of-Code-Python/tree/main/Day-18)
 - <b>Day 19</b> - [Turtle Race](https://github.com/tharunnayak14/100-Days-of-Code-Python/tree/main/Day-19)
 - <b>Day 20</b> - [Snake Game Beginner](https://github.com/tharunnayak14/100-Days-of-Code-Python/tree/main/Day-20)
+- <b>Day 21</b> - [Snake Game Final](https://github.com/tharunnayak14/100-Days-of-Code-Python/tree/main/Day-21)
