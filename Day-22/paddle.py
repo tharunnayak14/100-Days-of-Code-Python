@@ -4,18 +4,19 @@ DISTANCE = 50
 
 
 class Paddle(Turtle):
+
     def __init__(self, position):
-        super(Paddle, self).__init__()
-        self.paddle = Turtle("square")
-        self.paddle.color("white")
-        self.paddle.penup()
-        self.paddle.shapesize(stretch_len=1, stretch_wid=5)
-        self.paddle.goto(position[0], position[1])
+        super().__init__()
+        self.shape("square")
+        self.color("white")
+        self.shapesize(stretch_wid=5, stretch_len=1)
+        self.penup()
+        self.goto(position)
 
     def go_up(self):
-        new_y_cor = self.paddle.ycor() + DISTANCE
-        self.paddle.goto(self.paddle.xcor(), new_y_cor)
+        new_y = self.ycor() + DISTANCE
+        self.goto(self.xcor(), new_y)
 
     def go_down(self):
-        new_y_cor = self.paddle.ycor() - DISTANCE
-        self.paddle.goto(self.paddle.xcor(), new_y_cor)
+        new_y = self.ycor() - DISTANCE
+        self.goto(self.xcor(), new_y)
