@@ -51,6 +51,7 @@ while game_is_on:
         score.game_over()
         game_is_on = False
 
+
     # detect collision with own tail
     # if head collides with any segment, game over
     for segment in snake.segments[1:]:

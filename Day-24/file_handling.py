@@ -10,6 +10,7 @@
 #     content = file.read()
 #     print(content)
 
+
 # write to file
 # change mode to write
 

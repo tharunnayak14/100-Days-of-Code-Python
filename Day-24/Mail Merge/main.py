@@ -2,11 +2,12 @@ PLACEHOLDER = "[name]"
 
 
 # create a list of names to invite
-with open("input/Names/invited_names.txt") as invited_names:
+with open("Input/Names/invited_names.txt") as invited_names:
     names = invited_names.readlines()
 
 # now copy the contents of the starting letter
-with open("input/Letters/starting_letter.txt") as start_letter:
+
+with open("Input/Letters/starting_letter.txt") as start_letter:
     contents = start_letter.read()
     for name in names:
         # to remove /n
