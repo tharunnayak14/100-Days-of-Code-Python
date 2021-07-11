@@ -30,4 +30,4 @@
 - <b>Day 21</b> - [Snake Game Final](https://github.com/tharunnayak14/100-Days-of-Code-Python/tree/main/Day-21)
 - <b>Day 22</b> - [Pong Game](https://github.com/tharunnayak14/100-Days-of-Code-Python/tree/main/Day-22)
 - <b>Day 23</b> - [Turtle crossing Game](https://github.com/tharunnayak14/100-Days-of-Code-Python/tree/main/Day-23)
-- <b>Day 24</b> - [File Handling & Snake Game Highscore added](https://github.com/tharunnayak14/100-Days-of-Code-Python/tree/main/Day-23)
+- <b>Day 24</b> - [File Handling & Snake Game Highscore added](https://github.com/tharunnayak14/100-Days-of-Code-Python/tree/main/Day-24)
