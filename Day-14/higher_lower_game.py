@@ -1,5 +1,5 @@
 import random
-from replit import clear
+# from replit import clear
 
 logo = """
     __  ___       __             
@@ -369,7 +369,7 @@ def game():
 
         if choice == popular:
             score += 1
-            clear()
+            #clear()
             print(f"You are right, current score: {score}")
             print(f"{A['name']} has {A['follower_count']}M followers")
             print(f"{B['name']} has {B['follower_count']}M followers")

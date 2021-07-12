@@ -31,7 +31,7 @@ while continue_next:
 
     choice = input("Does anyone else want to bid? yes or no:\n")
 
-    if choice == "Yes":
+    if choice == "yes":
         os.system('cls')
     else:
         continue_next = False

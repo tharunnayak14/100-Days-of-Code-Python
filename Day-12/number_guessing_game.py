@@ -20,7 +20,7 @@ def game():
 
     # a function to pick a random number between 1-100
     def pick_number():
-        return random.randint(1, 101)
+        return random.randint(1, 100)
 
     # easy: no_of_guesses = 5
     # hard: no_of_guesses = 10

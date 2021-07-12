@@ -33,7 +33,6 @@ class ScoreBoard(Turtle):
             self.HighScore = self.score
             with open("data", mode="w") as file:
                 file.write(f"{self.HighScore}")
-        self.score = 0
         self.update_scoreboard()
 
     def game_over(self):
